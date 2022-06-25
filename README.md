@@ -2825,4 +2825,3 @@ O segundo data set tem mais texto e possui menos categórias, então o classific
 ```python
 
 ```
-"# projeto-minera-o-de-texto-com-stack-ELK" 
