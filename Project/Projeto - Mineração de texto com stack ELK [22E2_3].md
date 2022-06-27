@@ -2,7 +2,7 @@
 
 **Erik Tavares dos Anjos** <br />
 **Date Updated: 25/06/2022** <br />
-**GIT: https://github.com/eriktavares/projeto_minera-o_texto_elasticksearch**
+**GIT: https://github.com/eriktavares/projeto-minera-o-de-texto-com-stack-ELK**
 
 ##  <span style="color:purple">Objetivo</span>
 
@@ -2820,8 +2820,3 @@ for line in test_docs.index:
 O primeiro dataset tem pouca informação textual para esse tipo de classificação, então diversos problemas foram verificados, como
 o retorno sem match de nenhum documento e a dificuldade em se classificar, que também pode ser vista pelo número alto ed categórias. 
 O segundo data set tem mais texto e possui menos categórias, então o classificador tem alta taxa de acerto dos assuntos.
-
-
-```python
-
-```
